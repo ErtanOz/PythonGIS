@@ -1,7 +1,7 @@
 This notebook converts your address list to a list with coordinates.
 This code was written for our app project during the Coding Davince Hackathon. Enjoy it!
-[
-Python icon Python Jupyter Notebook icon [ungültige URL entfernt]](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+
+
 
 Features:
 
@@ -24,4 +24,10 @@ Run the notebook cells
 The coordinates will be saved to a new CSV file named coordinates.csv
 Open coordinates.csv to view the coordinates
 You can also visualize the coordinates on a map by running the last cell of the notebook
-Example usage:
+
+
+![Alt Text](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+
+
+![Alt Text](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)
+
