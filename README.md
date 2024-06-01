@@ -30,5 +30,5 @@ You can also visualize the coordinates on a map by running the last cell of the 
 
 
 
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png)" alt="python" width="40" height="40"/>
+<img src="[https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png]" alt="python" width="40" height="40"/>
 
